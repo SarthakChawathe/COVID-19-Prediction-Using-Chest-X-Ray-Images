@@ -1,7 +1,5 @@
 # COVID-19-Prediction-Using-Chest-X-Ray-Images
 
-# Covid-19 Prediction Using X-Ray Images
-
 ![Project Preview](https://medicaldialogues.in/h-upload/2023/03/09/204246-chest-x-rays.webp)
 
 This project aims to predict Covid-19 infection using X-ray images of patients' chests. By leveraging machine learning techniques, we can analyze the X-ray images and classify them as either Covid-19 positive or negative.
