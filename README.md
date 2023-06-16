@@ -42,5 +42,5 @@ The model training process involves the following steps:
 Refer to the project's documentation for more details on the model architecture and training process.
 
 ## Results
-Our trained model achieved an accuracy of X% on the test set, demonstrating its effectiveness in Covid-19 prediction using X-ray images. 
+Our trained model achieved an accuracy of around 95% on the test set, demonstrating its effectiveness in Covid-19 prediction using X-ray images. 
 
