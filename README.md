@@ -5,14 +5,13 @@
 This project aims to predict Covid-19 infection using X-ray images of patients' chests. By leveraging machine learning techniques, we can analyze the X-ray images and classify them as either Covid-19 positive or negative.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#introduction))
+- [Installation](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#introduction)
+- [Usage](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#introduction)
+- [Dataset](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#introduction)
+- [Model Training](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#introduction)
+- [Results](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#results)
+
 
 ## Introduction
 The outbreak of the Covid-19 pandemic has created a need for efficient and accurate diagnostic tools. This project focuses on utilizing deep learning algorithms to predict Covid-19 infection based on chest X-ray images. By providing a reliable and automated prediction mechanism, we aim to assist healthcare professionals in diagnosing Covid-19 cases quickly and accurately.
