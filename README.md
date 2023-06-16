@@ -6,7 +6,6 @@ This project aims to predict Covid-19 infection using X-ray images of patients' 
 
 ## Table of Contents
 - [Introduction](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#introduction)
-- [Installation](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#installation)
 - [Usage](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#usage)
 - [Dataset](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#dataset)
 - [Model Training](https://github.com/SarthakChawathe/COVID-19-Prediction-Using-Chest-X-Ray-Images/tree/main#model-training)
