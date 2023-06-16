@@ -28,7 +28,7 @@ The outbreak of the Covid-19 pandemic has created a need for efficient and accur
 For detailed instructions and code examples, please refer to the project's documentation.
 
 ## Dataset
-The dataset used in this project consists of chest X-ray images from various sources. Due to privacy and legal considerations, we cannot provide the dataset directly in this repository. However, you can find publicly available datasets that contain Covid-19 positive and negative X-ray images from reputable sources such as [COVID-19 Image Data Collection](https://github.com/RishitToteja/Chext-X-ray-Images-Data-Set).
+The dataset used in this project consists of chest X-ray images from various sources. Due to privacy and legal considerations, we cannot provide the dataset directly in this repository. However, you can find publicly available datasets that contain Covid-19 positive and negative X-ray images from reputable sources such as [COVID-19 Image Data Collection](https://github.com/RishitToteja/Chext-X-ray-Images-Data-Set/tree/main/DataSet/Data).
 
 ## Model Training
 The model training process involves the following steps:
