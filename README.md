@@ -13,15 +13,21 @@ This project aims to predict Covid-19 infection using X-ray images of patients' 
 
 
 ## Introduction
-The outbreak of the Covid-19 pandemic has created a need for efficient and accurate diagnostic tools. This project focuses on utilizing deep learning algorithms to predict Covid-19 infection based on chest X-ray images. By providing a reliable and automated prediction mechanism, we aim to assist healthcare professionals in diagnosing Covid-19 cases quickly and accurately.
+Welcome to the Data Science Interview Preparation repository! This resource is designed to help you prepare for data science interviews by providing a curated set of coding questions and examples in Python and SQL. By leveraging real-world scenarios and practical challenges, we aim to enhance your problem-solving skills and boost your confidence during interviews.
 
 
 ## Usage
-1. Prepare your dataset by organizing Covid-19 positive and negative chest X-ray images.
-2. Split the dataset into training and testing sets.
-3. Train the model using the provided scripts. Adjust hyperparameters as necessary.
-4. Evaluate the trained model on the test set to measure its performance.
-5. Use the trained model to make predictions on new chest X-ray images.
+Follow these steps to make the most of this repository:
+
+1.Explore Python Coding Questions: Navigate to the Python folder to find a collection of coding questions related to data science. Each question comes with a detailed explanation and solution to help you understand the underlying concepts.
+
+2.Explore SQL Coding Questions: Similarly, check out the SQL folder for a series of coding questions that are commonly asked in data science interviews. Practice your SQL skills and gain confidence in handling database-related problems.
+
+Dataset: Although specific datasets are not provided in this repository due to privacy and legal considerations, you are encouraged to use publicly available datasets from reputable sources. The dataset mentioned in the provided link is an example of what you might use for your practice.
+
+Model Training (for illustrative purposes): While the primary focus is on coding questions, there's a section on model training to provide an overview of the process. This includes steps like preprocessing data, splitting datasets, implementing a basic model, optimizing hyperparameters, and evaluating model performance.
+
+Results: Though the main emphasis is on coding skills, a section on results illustrates the concept of measuring model performance. It's a demonstration of what success might look like in a different context.
 
 For detailed instructions and code examples, please refer to the project's documentation.
 
